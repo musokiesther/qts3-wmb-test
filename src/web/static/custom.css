@@ -1,0 +1,5 @@
+article a.custom-button[role="button"],
+input[type="submit"]{
+    background-color: blue;
+    border-color: blue;
+}
